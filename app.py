@@ -1,6 +1,5 @@
 import json
 from difflib import get_close_matches
-import pyautogui
 from datetime import datetime
 from generateFacts import extract_facts_with_titles, save_facts_to_json
 
@@ -52,12 +51,6 @@ def chatbot(user_input: str):
         return f'{"alright sir"}'
     elif "time" in user_input.lower():
         return calculate_time()
-    elif "switch" in user_input.lower(): 
-        pyautogui.hotkey('alt', 'tab') 
-        return "switching tab"
-    elif "close tab" in user_input.lower():
-        pyautogui.hotkey('ctrl', 'w')
-        return "closing tab"
     elif 'ans is' in user_input.lower():
         user_data = user_input.split("-")
         get_question = user_data[1].strip()
