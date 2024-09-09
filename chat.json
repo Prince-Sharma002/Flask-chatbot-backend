@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "hii",
+      "answer": "hello"
+    },
+    {
+      "question": "hello",
+      "answer": "hii, how are you"
+    },
+    {
+      "question": "hello how are you",
+      "answer": "fine, how about you"
+    },
+    {
+      "question": "what is ur name",
+      "answer": "my name is mark5"
+    },
+    {
+      "question": "where do you live",
+      "answer": "i live in ghaziabad"
+    },
+    {
+      "question": "switch to sofia",
+      "answer": "moving to sofia"
+    },
+    {
+      "question": "sofia",
+      "answer": "sofia is my neighbourhood"
+    },
+    {
+      "question": "pagal",
+      "answer": "mad"
+    },
+    {
+      "question": "bcryptjs for encryption of password",
+      "answer": " bcryptjs is used for an encryption of password"
+    },
+    {
+      "question": "what is authentication",
+      "answer": "authentication is identifying user"
+    },
+    {
+      "question": "authorization",
+      "answer": "authorisation is determining the action user can perform"
+    },
+    {
+      "question": "jwt jason web token",
+      "answer": "jwt stand for jason web token used for securely transmit data between two parties"
+    }
+  ]
+}

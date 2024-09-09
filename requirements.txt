@@ -1,0 +1,10 @@
+Flask
+Gunicorn
+json  # Built-in module, doesn't need to be added
+difflib  # Built-in module, doesn't need to be added
+pyautogui==0.9.54
+spacy==3.5.0
+heapq  # Built-in module, doesn't need to be added
+collections  # Built-in module, doesn't need to be added
+string  # Built-in module, doesn't need to be added
+datetime  # Built-in module, doesn't need to be added
