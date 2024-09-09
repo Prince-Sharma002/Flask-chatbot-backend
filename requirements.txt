@@ -1,4 +1,3 @@
 Flask
 Gunicorn
-pyautogui==0.9.54
 spacy==3.5.0
